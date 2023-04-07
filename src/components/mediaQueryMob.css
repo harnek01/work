@@ -52,11 +52,40 @@
         width: 375px;
         height: 1046px;        
     }
+    .vec1{
+        width: 15.8px;
+        height: 10.2px;
+        left: 5px !important;
+        top: 30px !important;
+    }
+    .vec2{
+        width: 15.8px;
+        height: 10.2px;
+        left: 143px !important;
+        bottom: 23px !important;
+    }
     .card1{
         width: 327px;
         height: 183.5px;
     }
-
+    .card1Content{
+        width: 139px;
+        height: 105px;
+        left: 16px;
+        top: 39px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .meetCards{
+        width: 327px !important;
+        height: 582.5px !important;
+        justify-content: space-between !important;
+    }
+    .cardMeet{
+        width: 155.5px;
+        height: 183.5px;
+    }
     /* FdBazaar */
     .fdContainer{
         width: 375px;
@@ -67,7 +96,7 @@
     }
     .fdF1{
         width: 327px;
-        height: 327px;
+        height: 297px;
     }
     .fdF2{
         width: 327px;
@@ -79,8 +108,127 @@
         width: 327px !important;
         height: 42px !important;
         font-size: 16px !important;
+        line-height: 21px !important;
     }
-    .btn2{
-    justify-content: center;
+    /* savings */
+    .savingsContainer{
+        width: 375px;
+        height: 631px;
+        flex-wrap: wrap;
+        justify-content: center !important;
+        gap: 5px !important;
+    }
+    .savingf1{
+        width: 375px;
+        height: 631px;
+        order:10;        
+    }
+    .savingPara{
+        width: 327px !important;
+        height: 42px !important;
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .savingF2{
+        order: -1;
+        width: 327px !important;
+        height: 297px !important;
+    }
+    /* TaxSavings */
+    .taxContainer{
+        width: 375px;
+        height: 731px;
+        flex-wrap: wrap;
+        justify-content: center !important;
+        gap: 24px;
+    }
+    .taxF1{
+        width: 327px;
+        height: 297px;
+    }
+    .taxF2{
+        width: 327px;
+        height: 205px;
+        justify-content: flex-start !important;
+        text-align: center;
+    }
+    .taxPara{
+        width: 327px !important;
+        height: 42px !important;
+        font-size: 16px !important;
+        line-height: 21px !important;
+    }
+    /* Keep learning */
+    .learnFrame{
+        width: 375px;
+        height: 1600px !important;      
+    }
+    .para{
+        width: 327px !important;
+        height: 63px !important;
+        line-height: 21px;
+    }
+    .flexContainer{
+        width: 327px;
+        height: 1179px;
+    }
+    .card2{
+        width: 327px;
+        height: 290px;
+    }
+    .card2Img{
+        width: 311px;
+        height: 150px;
+    }
+    .card2Cont{
+        width: 311px;
+        height: 54px;
+        font-size: 14px !important;
+        line-height: 18px !important;
+    }
+    .btn-content{
+        width: 311px;
+        height: 37px;
+        gap: 100px;
+    }
+    /* press */
+    #pressContainer{
+        width: 375px;
+        height: 304px;   
+        gap: 5px;     
+        padding: 30px 24px;
+    }
+    #pressImg{
+        width: 327px;
+        height: 40px;
+    }
+    .pImg{
+        width: 76px;
+        height: 27.2px;
+    }
+    .followContainer{
+        width: 375px;
+        height: 402px;
+        padding: 48px 24px;
+    }
+    .follow1{
+        width: 327px;
+        height: 138px;
+        display: flex;
+        justify-content: center !important;
+        gap: 40px;
+    }
+    .logoImg{
+        width: 48px;
+        height: 48px;
+    }
+    /* Invest */
+    .investContainer{
+        width: 375px;
+        height: 317px;
+        gap:10px !important;
+    }
+    .colFlex{
+    
     }
 }
