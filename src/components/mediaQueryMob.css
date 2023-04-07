@@ -56,4 +56,28 @@
         width: 327px;
         height: 183.5px;
     }
+
+    /* FdBazaar */
+    .fdContainer{
+        width: 375px;
+        height: 731px;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 24px;
+    }
+    .fdF1{
+        width: 327px;
+        height: 327px;
+    }
+    .fdF2{
+        width: 327px;
+        height: 205px;
+        justify-content: flex-start !important;
+        text-align: center;
+    }
+    .fdPara{
+        width: 327px !important;
+        height: 42px !important;
+        font-size: 16px !important;
+    }
 }

@@ -11,7 +11,7 @@ export default function Card(props) {
         <span   style={{fontWeight: '400', color: '#686868'}}>Founder and CEO</span>
       </div>
       <img src='images/Vector.png' width='23px' height='23px' style={{position:'absolute',bottom: '25px',
-    right: '25px'}} alt='' className={props.clas}/>
+    right: '25px'}} alt='' className="card1Img"/>
       </div>
         </>
   )
