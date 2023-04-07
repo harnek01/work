@@ -62,7 +62,7 @@
         width: 375px;
         height: 731px;
         flex-wrap: wrap;
-        justify-content: center;
+        justify-content: center !important;
         gap: 24px;
     }
     .fdF1{
@@ -79,5 +79,8 @@
         width: 327px !important;
         height: 42px !important;
         font-size: 16px !important;
+    }
+    .btn2{
+    justify-content: center;
     }
 }
