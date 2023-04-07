@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+.footContent{
+    box-sizing: border-box;
+display: flex;
+justify-content: space-between;
+align-items: flex-start;
+width: 1440px;
+height: 584px;
+padding: 100px 70px 70px 70px;
+
+/* Brand/Blue */
+
+background: #121B64;
+
+    font-family:'Jost',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+/* White off */
+
+color: #F6F6F6;
+}
+
+.foot1{
+    display: flex;
+    flex-direction: column;
+    width: 342px;
+    height: 78px;
+}
+.foot2{
+    
+    display: flex;
+    flex-direction: column;
+    width: 140px;
+    height: 193px;
+}

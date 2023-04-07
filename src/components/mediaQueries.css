@@ -1,0 +1,276 @@
+@media only screen and (max-width:1024px)
+{
+    .fixed{
+        width: 1024px;
+        height: 1061px;  
+        gap:64px;      
+    }
+    /* .frame1{
+        width: 1024px;
+        height: 540px;
+        
+    } */
+    .fixCards{
+        gap: 24px;
+        width: 773px;
+        height: 600px;
+        flex-wrap: wrap;
+    }
+    .card3{
+        width: 773px !important;
+        height: 184px !important;
+        box-sizing: border-box !important;
+        flex-direction: column !important;
+        flex-wrap: wrap !important;
+    }
+    .para{
+        width: 741px;
+        height: 26px;   
+        text-align: center !important;     
+    }
+    .cardHead{
+        width: 665px;
+        height: 36px;
+    }
+    /* keep Learn */
+    .learnFrame{
+        width: 1024px;
+        height: 1407px !important;
+        gap:64px;
+    }
+    .flexContainer{
+        width: 880px;
+        height: 824px;
+        flex-wrap: wrap;
+        padding: 4px 4px 0px !important;
+        gap:10px;
+    }
+    .card2{
+        width: 432px;
+        height: 430px;
+        box-sizing: border-box;
+    }
+    .card2Cont{
+        width: 416px;
+        height: 89px !important;        
+    }
+    .card2Bottom{
+        width: 416px;
+        height: 37px;
+        padding-top: 40px;
+    }
+    .card2Img{
+        width: 416px;
+        height: 203px;
+    }
+    /* Meet The team */
+    .meetFrame{
+        width: 1024px;
+        height: 1549px !important;        
+    }
+    .card1{
+        width: 880px;
+        height: 360px;
+    }
+    .card1Content{
+        width: 526px;
+        height: 72px;
+        font-size: 28px;
+        top: 144px;
+        left: 36px;      
+    }
+    .vec1,.vec2{
+        width: 39.5px;
+        height: 25.51px;
+    }
+    .vec1{
+        bottom:32.75px;
+    }
+    .vec2{
+    left: 520px !important;
+    }
+
+    .meetCards{
+        width: 880px !important;
+        height: 736px !important;
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+    /* pressPage */
+    #pressContainer{
+        width: 1024px;
+        height: 600px;
+        gap: 50px;
+    }
+    #pressImg{
+        width: 880px;
+        height: 170px;
+        display: flex !important;
+    }
+    .pImg{
+        width: 236.6px;
+        height: 84.68px;
+    }
+    /* followPage */
+    .followContainer{
+        width: 1024px;
+        height: 760px;
+        gap:60px;
+    }
+    .follow1{
+        display: flex;
+        justify-content: center;
+        gap: 200px;
+    }
+    /* startIvesting */
+    .investContainer{
+        width: 1024px;
+        height: 540px;
+    }
+    .colFlex{
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    }
+    /* Taxsavings */
+    .taxContainer{
+        width: 1024px;
+        height: 537px;
+    }
+    .taxF1{
+    width: 355.56px !important;
+    height: 353.29px !important;
+    }
+    .taxF2{
+        width: 506px !important;
+        height: 255px !important;
+        gap:30px;
+    }
+    .taxPara{
+        width: 506px !important;
+        height: 72px !important;
+        font-weight: 400;
+        text-align: right !important;
+    }
+    /* savings */
+    .savingsContainer{
+        width: 1024px;
+        height: 540px;        
+    }
+    .savingF2{
+        width: 355.56px !important;
+        height: 353.29px !important;
+    }
+    .savingF1{
+        width: 506px !important;
+        height: 255px !important;
+        gap:30px;
+    }
+    .savingPara{
+        width: 506px !important;
+        height: 72px !important;
+        font-weight: 400;
+        text-align: left !important;
+    }
+    /* FdBazaar */
+    .fdContainer{
+        width: 1024px;
+        height: 540px;
+    }
+    .fdF1{
+        width: 355.56px !important;
+        height: 353.29px !important;
+    }
+    .fdF2{
+        width: 506px !important;
+        height: 255px !important;
+        gap:30px;
+    }
+    .fdPara{
+        width: 506px !important;
+        height: 72px !important;
+        font-weight: 400;
+        text-align: right !important;
+    }
+    /* stressFree */
+    .firstContainer{
+        width: 1024px;
+        height: 708px;
+        gap: 50px !important;
+    }
+    .rupeeCoin{
+        width: 250px;
+        height: 250px;
+        left: 1.26px !important;
+        top: 24px !important;
+    }
+    .fCoin{
+        width: 250px;
+        height: 250px;
+        right: 5px !important;
+        top: 30px !important;
+    }
+    .percentCoin{
+        width: 150px;
+        height: 150px;
+        left: 74px !important;
+        bottom: 130px !important;
+    }
+    .arrowCoin{
+        width: 180px;
+        height: 180px;
+        right: 33px !important;
+        bottom: 135px !important;
+    }
+    .stressHead{
+        width: 610px;
+        height: 84px;
+        font-weight: 500;
+        font-size: 70px !important;
+        margin-top: 110px !important;
+    }
+    .stressPara{
+        width: 700px;
+        height: 72px;
+    }
+    /* NavBottom */
+    .nav-bottom-container{
+        width: 1024px;
+        height: 52px;
+        box-sizing: border-box;
+    }
+    /* Navbar */
+    .navbar-container{
+        width: 1024px;
+        height: 70px;
+        justify-content: center;   
+        gap: 133px;     
+    }
+    .nav-frame-1{
+        width: 108.75px;
+        height: 30px;
+    }
+    .nav-frame-3{
+        height: 30px;
+        width: 180px;
+    }
+    /* Footer */
+    .footContainer{
+        width: 1024px !important;
+        height: 579px !important;
+    }
+    .fixedContainer1{
+        width: 880px;
+        height: 138px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+    .fixedContainer2{
+        width: 1024px;
+        height: 579px;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+

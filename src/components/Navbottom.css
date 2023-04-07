@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+.nav-bottom-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px; 
+    width: 1440px;
+    height: 52px;
+    background: #F7F7F7;
+    border-radius: 6px; 
+}
+.mega-text{
+    font-family: 'Jost',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+}

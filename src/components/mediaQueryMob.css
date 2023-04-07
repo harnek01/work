@@ -1,0 +1,59 @@
+@media only screen and (max-width:700px)
+{
+    .fixed{
+        width: 375px;
+        height: 789px;
+        gap: 20px;
+    }
+    .fixCards{
+        width: 327px;
+        height: 546px;                
+    }
+    .card3{
+        width: 327px !important;
+        height: 150px !important;      
+        gap:16px;
+        flex-direction: column;  
+        position: relative;
+    }
+    .arrowImg{
+        width: 13px !important;
+        height: 13px !important;
+    }
+    .fixedHead{
+        width: 327px;
+        height: 41px;
+        font-size: 40px;     
+        display: flex;
+        justify-content: center; 
+    }
+    .hrLine{
+        width: 311px !important;
+        height: 0px;
+    }
+    .para{
+        width: 327px;
+        height: 42px;
+        font-size: 16px;
+    }
+    .cardHead{
+        width: 263px;
+        height: 21px;        
+    }
+    .btn-content{
+        width: 311px;
+        height: 42px;
+        display: flex;
+        position: absolute;
+        bottom: 4px;
+    }
+    /* Meet The Team */
+    .meetFrame{
+        width: 375px;
+        height: 1046px;        
+    }
+    .card1{
+        width: 327px;
+        height: 183.5px;
+    }
+}
