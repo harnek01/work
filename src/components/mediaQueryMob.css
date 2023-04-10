@@ -228,7 +228,72 @@
         height: 317px;
         gap:10px !important;
     }
-    .colFlex{
-    
+    /* stress */
+    .firstContainer{
+        width: 375px;
+        height: 297px;
+        gap: 10px !important;
+        align-items: center !important;
+        justify-content: center !important;
     }
+    .rupeeCoin{
+        width: 60.72px !important;
+        height: 60.72px !important;
+    }
+    .fCoin{
+        width: 50px !important;
+        height: 50px !important;
+    }
+    .percentCoin{
+        width: 72px;
+        height: 72px;
+        bottom: 20px !important;
+        left: 10px !important;
+    }
+    .arrowCoin{
+        width: 66px;
+        height: 66px;
+        bottom: 20px !important;
+    }
+    .stressHead{
+        width: 327px !important;
+        height: 41px !important;
+        font-size: 32px !important;
+        line-height: 21px;
+    }
+    .stressPara{
+        width: 327px;
+        height: 63px;
+        font-size: 16px !important;        
+    }
+    /* NavBottom */
+    .nav-bottom-container{
+        width: 375px;
+        height: 40px;
+    }
+    .megatext{
+        width: 184px;
+        height: 18px;
+        font-size: 14px;
+    }
+    /* Navbar */
+    .navbar-container{
+        width: 375px;
+        height: 50px;
+        gap:200px;
+    }
+    .nav-frame-1{
+        width: 54.38px !important;
+        height: 15px !important;
+    }
+    .nav-frame-2{
+        display: none;
+    gap: 10px !important;
+    }
+    .nav-frame-3{
+        width: 54.38px;
+        height: 15px;
+        font-size: 8px !important;
+    }
+
 }
