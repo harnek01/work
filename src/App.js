@@ -13,10 +13,12 @@ import Saving from './components/Saving';
 import TaxSaving from './components/TaxSaving';
 import WhyFixed from './components/WhyFixed';
 import FootPage from './components/FootPage';
+import Navi from './components/Navi';
 
 function App() {
   return (
     <div className='container'>
+      <Navi />
       <Navbar />
       <Navbottom />
     <FirstPage />
