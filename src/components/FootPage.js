@@ -20,10 +20,7 @@ export default function FootPage() {
         <div className="talkContainer">
        <b> Want to talk?</b><br />
        <p>Call us and we will solve all your doubts and help you grow your business</p>
-       <div style={{display:'flex'}}>
-            <img src='images/Vector (3).png' style={{alignSelf:'center'}} alt="" />
-            <span style={{margin:'10px'}}>Call  +91 9876543210</span>
-        </div>
+       
         </div>
         
       </div>
