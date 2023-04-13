@@ -3,6 +3,7 @@ import React from 'react'
 export default function Card(props) {
   return (
     <>
+    
     <div style={{display:'flex', flexDirection:'column', border:'1px solid gray', position:'relative'}}>
       <img src={props.imageSrc} className='cardMeet' alt='' />
       

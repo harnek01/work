@@ -3,6 +3,7 @@ import "./Navbottom.css"
 export default function Navbottom() {
   return (
     <>
+    
       <div className="nav-bottom-container">
       <div className="megaphone">
         <img src="images/Megaphone.png" alt="" />
