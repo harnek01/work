@@ -48,7 +48,7 @@ export default function MeetTeam() {
       <div
         style={{
           display: "flex",
-          width: "1294px",
+          width: "100%",
           justifyContent: "space-between",
         }} className="meetCards"
       >

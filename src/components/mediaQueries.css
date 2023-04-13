@@ -259,8 +259,11 @@
     .footContainer{
         width: 1024px !important;
         height: 579px !important;
+        flex-wrap: wrap;
+        /* flex-direction: row; */
     }
     .fixedContainer1{
+        order:10;
         width: 880px;
         height: 138px;
         display: flex;
@@ -269,9 +272,10 @@
     }
     .fixedContainer2{
         width: 1024px;
-        height: 579px;
+        height: 193px;
         display: flex;
         justify-content: space-between;
     }
+    
 }
 
