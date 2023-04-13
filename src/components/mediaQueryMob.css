@@ -1,7 +1,7 @@
 @media only screen and (max-width:700px)
 {
     .fixed{
-        width: 375px;
+        width: 100%;
         height: 789px;
         gap: 20px;
     }
@@ -49,7 +49,7 @@
     }
     /* Meet The Team */
     .meetFrame{
-        width: 375px;
+        width: 100%;
         height: 1046px;        
     }
     .vec1{
@@ -88,7 +88,7 @@
     }
     /* FdBazaar */
     .fdContainer{
-        width: 375px;
+        width: 100%;
         height: 731px;
         flex-wrap: wrap;
         justify-content: center !important;
@@ -112,7 +112,7 @@
     }
     /* savings */
     .savingsContainer{
-        width: 375px;
+        width: 100%;
         height: 631px;
         flex-wrap: wrap;
         justify-content: center !important;
@@ -136,7 +136,7 @@
     }
     /* TaxSavings */
     .taxContainer{
-        width: 375px;
+        width: 100%;
         height: 731px;
         flex-wrap: wrap;
         justify-content: center !important;
@@ -160,7 +160,7 @@
     }
     /* Keep learning */
     .learnFrame{
-        width: 375px;
+        width: 100%;
         height: 1600px !important;      
     }
     .para{
@@ -193,7 +193,7 @@
     }
     /* press */
     #pressContainer{
-        width: 375px;
+        width: 100%;
         height: 304px;   
         gap: 5px;     
         padding: 30px 24px;
@@ -207,7 +207,7 @@
         height: 27.2px;
     }
     .followContainer{
-        width: 375px;
+        width: 100%;
         height: 402px;
         padding: 48px 24px;
     }
@@ -224,13 +224,13 @@
     }
     /* Invest */
     .investContainer{
-        width: 375px;
+        width: 100%;
         height: 317px;
         gap:10px !important;
     }
     /* stress */
     .firstContainer{
-        width: 375px;
+        width: 100%;
         height: 297px;
         gap: 10px !important;
         align-items: center !important;
@@ -268,7 +268,7 @@
     }
     /* NavBottom */
     .nav-bottom-container{
-        width: 375px;
+        width: 100%;
         height: 40px;
     }
     .megatext{
@@ -278,7 +278,7 @@
     }
     /* Navbar */
     .navbar-container{
-        width: 375px;
+        width: 100%;
         height: 50px;
         gap:200px;
     }
