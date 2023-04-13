@@ -200,26 +200,26 @@
         gap: 50px !important;
     }
     .rupeeCoin{
-        width: 250px;
-        height: 250px;
+        width: 250px !important;
+        height: 250px !important;
         left: 1.26px !important;
         top: 24px !important;
     }
     .fCoin{
-        width: 250px;
-        height: 250px;
+        width: 250px !important;
+        height: 250px !important;
         right: 5px !important;
         top: 30px !important;
     }
     .percentCoin{
-        width: 150px;
-        height: 150px;
+        width: 150px !important;
+        height: 150px !important;
         left: 74px !important;
         bottom: 130px !important;
     }
     .arrowCoin{
-        width: 180px;
-        height: 180px;
+        width: 180px !important;
+        height: 180px !important;
         right: 33px !important;
         bottom: 135px !important;
     }
@@ -244,7 +244,7 @@
     .navbar-container{
         width: 1024px;
         height: 70px;
-        justify-content: center;   
+        justify-content: space-between;   
         gap: 133px;     
     }
     .nav-frame-1{
@@ -260,6 +260,7 @@
         width: 1024px !important;
         height: 579px !important;
         flex-wrap: wrap;
+        
         /* flex-direction: row; */
     }
     .fixedContainer1{

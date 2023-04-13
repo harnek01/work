@@ -14,7 +14,7 @@ export default function Card2(props) {
       </div>
       <div style={{display:'flex',width:'100%', justifyContent:'space-between', position:'relative', bottom:'0px'}} className='card2Bottom'>
             <div className='btn-content' style={{color:'#BEBEBE', padding:'16px'}}>24 May 2023</div>
-            <div className='btn-content' style={{color:'#7E8139', padding:'16px'}}>Read Now</div>
+            <div className='btn-content btn-read' style={{color:'#7E8139', padding:'16px'}}>Read Now</div>
         </div>
     </div>
   )

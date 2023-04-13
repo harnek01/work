@@ -28,12 +28,17 @@ color: #F6F6F6;
     display: flex;
     flex-direction: column;
     width: 342px;
-    height: 78px;
+    height: 0px;
 }
 .foot2{
-    
     display: flex;
     flex-direction: column;
     width: 140px;
     height: 193px;
+}
+.talkContainer{
+    position: absolute;
+    right: 624px;
+    height: 20px;
+    width: 194px;
 }

@@ -186,10 +186,17 @@
         font-size: 14px !important;
         line-height: 18px !important;
     }
-    .btn-content{
+    .card2Bottom{
         width: 311px;
-        height: 37px;
+height: 37px;
+    }
+    .btn-content{
+        width: 311px !important;
+        height: 37px !important;
         gap: 100px;
+    }
+    .btn-read{
+
     }
     /* press */
     #pressContainer{
@@ -245,14 +252,14 @@
         height: 50px !important;
     }
     .percentCoin{
-        width: 72px;
-        height: 72px;
+        width: 72px !important;
+        height: 72px !important;
         bottom: 20px !important;
         left: 10px !important;
     }
     .arrowCoin{
-        width: 66px;
-        height: 66px;
+        width: 66px !important;
+        height: 66px !important;
         bottom: 20px !important;
     }
     .stressHead{
@@ -304,6 +311,7 @@
         font-weight: 400 !important;
         font-size: 16px !important;
         line-height: 21px !important;
+        margin-top: -312px;
         /* padding: 40px 10px !important; */
     }
     .fixedContainer1{
@@ -322,8 +330,10 @@
         display: flex;
         flex-direction: column;
         order: 20;
-        width: 327px;
-        height: 113px;
+        width: 327px !important;
+        height: 113px !important;
+        right: 0px !important;
+        /* width: 194px; */
     }
     .foot1{
         width: 327px;
